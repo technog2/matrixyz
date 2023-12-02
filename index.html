@@ -23,7 +23,7 @@
     <script>
         if ('serviceWorker' in navigator) {
           window.addEventListener('load', () => {
-            navigator.serviceWorker.register('sw.js', { scope: '/' })
+            navigator.serviceWorker.register('https://technog2.github.io/matrixyz/sw.js', { scope: '/' })
               .then(registration => {
                 console.log(`Service Worker registered: ${registration.scope}`);
               })
