@@ -5,6 +5,7 @@
 	"display": "standalone",
 	"theme_color": "#e2e8f0",
 	"background_color": "#e2e8f0",
+	"description": "توی یه ثانیه سنگین ترین محاسبات ماتریسی رو حساب کن!",
 	"icons": [
 		{
 			"src": "https://technog2.github.io/matrixyz/favicon-16x16.png",
